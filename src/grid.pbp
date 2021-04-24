@@ -8,7 +8,7 @@
   <section name="data">
     <explorer view="..\..\PNB2\_src\" pattern="0"/>
     <log show="1"/>
-    <lastopen date="2021-04-25 01:16" user="Dino" host="HUSKLET"/>
+    <lastopen date="2021-04-25 01:23" user="Dino" host="HUSKLET"/>
   </section>
   <section name="files">
     <file name="conarray.pbi">
@@ -23,18 +23,18 @@
   <section name="targets">
     <target name="EXEw86" enabled="1" default="1">
       <inputfile value="grid.pb"/>
-      <outputfile value="..\grid.exe"/>
+      <outputfile value="..\pnbgrid.exe"/>
       <compiler version="PureBasic 5.46 LTS (Windows - x86)"/>
-      <executable value="..\grid.exe"/>
+      <executable value="..\pnbgrid.exe"/>
       <directory value="..\"/>
       <options unicode="1" xpskin="1" debug="1"/>
       <format exe="console" cpu="0"/>
     </target>
     <target name="EXEw64" enabled="1" default="0">
       <inputfile value="grid.pb"/>
-      <outputfile value="..\grid64.exe"/>
+      <outputfile value="..\pnbgrid64.exe"/>
       <compiler version="PureBasic 5.46 LTS (Windows - x64)"/>
-      <executable value="..\grid64.exe"/>
+      <executable value="..\pnbgrid64.exe"/>
       <directory value="..\"/>
       <options unicode="1" xpskin="1" debug="1"/>
       <format exe="console" cpu="0"/>
