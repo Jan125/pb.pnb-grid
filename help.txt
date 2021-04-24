@@ -1,0 +1,4 @@
+PNB\grid
+
+You control the cursor with the cursor keys, Esc for menu, Enter to select an option or edit a cell.
+Please see pb.pnb for language specification.
